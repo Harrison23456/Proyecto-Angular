@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootswatch/dist/materia/bootstrap.min.css";
+@import 'ngx-toastr/toastr';
+
+
+
+body{
+    background-color: #835C9C;
+}
+
+.titulo{
+    font-size: 1.8rem;
+    font-family: 'Merriweather', serif;
+}
